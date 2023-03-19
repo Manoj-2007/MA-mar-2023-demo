@@ -21,7 +21,7 @@
 
 
 
-![Sql Azure|150x150](./Documentation/Images/PR-CI-CD1.PNG)
+![Sql Azure|150x150](./Documentation/Images/PI.jpg)
 
 
 ![Sql Azure|150x150](./Documentation/Images/PRinGitHub.PNG)
