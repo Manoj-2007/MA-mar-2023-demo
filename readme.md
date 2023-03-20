@@ -50,7 +50,7 @@
 
 ## Insertion and Display Operations
 
-> I have used 2 functions for Insertion where in Insert() is used to insert a single record and InsertMultiple() is used to insert multiple records according to the user convenience.In the same way I have used
+> I have used 2 functions for Insertion where in Insert() is used to insert a single record and InsertMultiple() is used to insert multiple records according to the user convenience.In the same way I have used 2 functions to Display readSingleBook() to display singlerecord and readAllBooks() to display multiple records.
 > 1. insertNewBook()
 > 1. insertMultipleBooks()
 > 1. readSingleBook()
