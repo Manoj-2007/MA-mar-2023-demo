@@ -1,10 +1,10 @@
 # Manoj Aitha - Sand Glass - JDBC with Sqlite Console Apps.
 
-## Date Time: 26-Mar-2023 at 09:00 AM IST
+## Date Time: 20-Mar-2023 at 01:00 PM IST
 
 
 
-![Manoj Aitha |150x150](./Documentation/Images/FirstSlide.PNG)
+![Manoj Aitha |150x150](./Documentation/Images/FirstSlide1.PNG)
 
 ## Java Training acquired
 > 1. JAVA SWING: Subtle understanding of Swing components and functionalities and their role in creating customized and complex applications. Worked on basic applications such as Calculator, Basic sEmployee Management System etc., the inclusion of JDBC and OOPS concepts that makes it more custom-oriented and user interactive.
